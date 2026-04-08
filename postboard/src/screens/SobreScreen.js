@@ -6,7 +6,7 @@ export default function SobreScreen() {
     <View style={styles.container}>
       <Text style={styles.titulo}>📱 PostBoard</Text>
       <Text style={styles.texto}>Versão: 1.0.0</Text>
-      <Text style={styles.texto}>Desenvolvedor: Seu Nome</Text>
+      <Text style={styles.texto}>Desenvolvedor: Marcelo</Text>
     </View>
   );
 }
